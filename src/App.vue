@@ -1,6 +1,7 @@
 <template>
   <Navbar />
   <Login />
+  <Crypto />
   <Footer />
 </template>
 
@@ -8,12 +9,14 @@
 import Navbar from './components/Navbar'
 import Login from './components/Login'
 import Footer from './components/Footer'
+import Crypto from './components/Crypto'
 export default {
   name: 'App',
   components: {
     Navbar,
     Login,
-    Footer
+    Footer,
+    Crypto
   }
 }
 </script>
