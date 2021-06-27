@@ -1,5 +1,5 @@
 <template>
-  <Navbar v-bind:links="['Home', 'About', 'Contact']"/>
+  <Navbar />
   <Login />
   <Footer />
 </template>
