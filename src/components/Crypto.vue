@@ -3,6 +3,7 @@
     <div class="overflow-x-auto">
         <div class="min-w-screen min-h-screen bg-gray-100 flex items-center justify-center bg-gray-100 font-sans overflow-hidden">
             <div class="w-full lg:w-5/6">
+                <h3 class="text-center"> Top Movers </h3>
                 <div class="bg-white shadow-md rounded my-6">
                     <table class="min-w-max w-full table-auto">
                         <thead>
@@ -203,7 +204,69 @@
                 </div>
             </div>
         </div>
-    </div>s
+    </div>
+    <div class="overflow-x-auto">
+        <div class="min-w-screen min-h-screen bg-white-100 flex items-center justify-center bg-white-100 font-sans overflow-hidden">
+            <div class="w-full lg:w-5/6">
+                <h3 class="text-center font-bold"> Latest Cryptocurrency News </h3>
+                <div class="bg-white shadow-md rounded my-6">
+                    <div class="grid grid-cols-3 gap-4">
+                        <div class="p-10">  
+                            <!--Card 1-->
+                            <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                                <div class="px-6 py-4">
+                                    <div class="font-bold text-xl mb-3">Why is the Market Unstable?</div>
+                                    <p class="mb-3">Google Finance - 8 Hours Ago</p>
+                                    <p class="text-gray-700 text-base">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                                    </p>
+                                </div>
+                                <div class="px-6 pt-4 pb-2">
+                                    <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">BTC</span>
+                                    <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">BTC-USD</span>
+                                    <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">CRYPTO</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-10">  
+                            <!--Card 2-->
+                            <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                                <div class="px-6 py-4">
+                                    <div class="font-bold text-xl mb-3">Future of Ethereum Mining</div>
+                                    <p class="mb-3">Yahoo Finance - 9 Hours Ago</p>
+                                    <p class="text-gray-700 text-base">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                                    </p>
+                                </div>
+                                <div class="px-6 pt-4 pb-2">
+                                    <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">ETH</span>
+                                    <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">ETH-USD</span>
+                                    <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">CRYPTO</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-10">  
+                            <!--Card 3-->
+                            <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                                <div class="px-6 py-4">
+                                    <div class="font-bold text-xl mb-3">Big Dip in Cardano</div>
+                                    <p class="mb-3">Marketwire Finance - 6 Hours Ago</p>
+                                    <p class="text-gray-700 text-base">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                                    </p>
+                                </div>
+                                <div class="px-6 pt-4 pb-2">
+                                    <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">ADA</span>
+                                    <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">ADA-USD</span>
+                                    <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">CRYPTO</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
   </div>
 </template>
 
