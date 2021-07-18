@@ -117,7 +117,79 @@
                                     <span class="bg-red-200 text-white-600 py-1 px-3 rounded-full text-xs">0.970</span>
                                 </td>
                                 <td class="py-3 px-6 text-center">
-                                    <span class="bg-red-200 text-white-600 py-1 px-3 rounded-full text-xs">+-0.030(-3.00%)</span>
+                                    <span class="bg-red-200 text-white-600 py-1 px-3 rounded-full text-xs">-0.030(-3.00%)</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>74,592,816.56</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>Not Mineable/Ethereum</span>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 hover:bg-gray-100">
+                              <td class="py-3 px-6 text-left whitespace-nowrap">
+                                    <div class="flex items-center">
+                                        <div class="mr-2">
+                                            <span>4</span>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="py-3 px-6 text-left whitespace-nowrap">
+                                    <div class="flex items-center">
+                                        <div class="mr-2">
+                                            <img src="https://www.mtpelerin.com/images/bnb-coin.svg"
+                                                 width="24" height="24"
+                                                 style=" fill:#000000;" />
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>Binance Coin (BNB)</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>47,080,222,388</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span class="bg-green-200 text-white-600 py-1 px-3 rounded-full text-xs">304.65</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span class="bg-green-200 text-white-600 py-1 px-3 rounded-full text-xs">+4.00(1.33%)</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>74,592,816.56</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>Not Mineable/Binance Chain</span>
+                                </td>
+                            </tr>
+                            <tr class="border-b border-gray-200 hover:bg-gray-100">
+                              <td class="py-3 px-6 text-left whitespace-nowrap">
+                                    <div class="flex items-center">
+                                        <div class="mr-2">
+                                            <span>5</span>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="py-3 px-6 text-left whitespace-nowrap">
+                                    <div class="flex items-center">
+                                        <div class="mr-2">
+                                            <img src="https://image.shutterstock.com/image-vector/vector-illustration-xrp-ripple-crypto-600w-1963110763.jpg"
+                                                 width="24" height="24"
+                                                 style=" fill:#000000;" />
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>Ripple (XRP)</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span>62,201,500,596</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span class="bg-red-200 text-white-600 py-1 px-3 rounded-full text-xs">0.970</span>
+                                </td>
+                                <td class="py-3 px-6 text-center">
+                                    <span class="bg-red-200 text-white-600 py-1 px-3 rounded-full text-xs">-0.040(-4.00%)</span>
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <span>74,592,816.56</span>
